@@ -1,7 +1,7 @@
 :root {
   /* стиль тексту */
-  --main-font: roboto;
-  --secondary-font: releway;
+  --main-font: "Roboto";
+  --secondary-font: "Raleway";
   /* кольори тексту */
   --site-text-color: #757575;
   --link-text-color: #212121;
@@ -75,6 +75,7 @@ body {
 }
 
 .header-web {
+  font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -204,11 +205,9 @@ body {
 .footer {
   background-color: var(--backgroud-footer-color);
 }
-.w {
-  font-family: "Raleway";
-  font-style: normal;
-}
+
 .logo-footer {
+  font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
