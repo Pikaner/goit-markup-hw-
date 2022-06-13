@@ -24,6 +24,7 @@
   --background-btn-color: #f5f4fa;
   --backgroud-footer-color: #2f303a;
   --background-team-color: #f5f4fa;
+  --background-btn-hover-kolor: #188CE8;
 }
 
 body {
@@ -147,8 +148,8 @@ body {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: var(--hero-title-text-color);
-  color: var(--background-hero-color);
+  background-color: var(--background-btn-hover-kolor);
+ 
 }
 
 /* переваги */
