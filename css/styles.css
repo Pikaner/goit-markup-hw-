@@ -129,6 +129,7 @@ body {
 
   color: var(--hero-title-text-color);
 }
+/* кнопка */
 .hero-btn {
   font-family: inherit;
   font-weight: 700;
