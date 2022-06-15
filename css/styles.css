@@ -190,10 +190,10 @@ body {
 
 .footer-address-link {
   font-weight: 400;
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  cursor: default;
   color: var(--footer-address-text-color);
 }
 
@@ -204,10 +204,10 @@ body {
 
 .footer-contact-link {
   font-weight: 400;
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  cursor: default;
   color: var(--footer-contact-text-color);
 }
 
